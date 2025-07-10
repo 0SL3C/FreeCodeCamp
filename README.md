@@ -17,24 +17,6 @@ This repository contains a collection of projects built while completing FreeCod
 
 ## Back End Development and APIs
 
-### Basic Node and Express
-- **Folder:** `boilerplate-express`
-- **Summary:**
-  - Introduces Node.js and Express.js fundamentals.
-  - Covers routing, middleware, and basic server setup.
-
-### Managing Packages With npm
-- **Folder:** `boilerplate-npm`
-- **Summary:**
-  - Teaches npm package management.
-  - Covers dependencies, scripts, and project structure.
-
-### MongoDB and Mongoose Challenges
-- **Folder:** `boilerplate-mongomongoose`
-- **Summary:**
-  - Introduces MongoDB and Mongoose for database operations.
-  - Covers schema design, CRUD operations, and data modeling.
-
 ### Exercise Tracker
 - **Folder:** `exercise-tracker-js`
 - **Summary:**
